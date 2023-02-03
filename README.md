@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning React/React Native<br>👯 I’m looking to collaborate on projects
+🌱 I’m currently learning React/React Native/C++<br>👯 I’m looking to collaborate on projects
 
 
 ## 🌐 Socials:
